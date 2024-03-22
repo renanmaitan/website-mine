@@ -1,0 +1,9 @@
+Camponês
+Servo
+Cavaleiro
+Barão
+Conde
+Marquês
+Duque
+Rei
+Imperador
